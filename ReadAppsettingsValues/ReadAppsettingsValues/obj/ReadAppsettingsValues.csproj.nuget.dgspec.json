@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santhosh goud\\source\\repos\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj": {}
+    "C:\\Users\\santhosh goud\\Desktop\\GIT\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santhosh goud\\source\\repos\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj": {
+    "C:\\Users\\santhosh goud\\Desktop\\GIT\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santhosh goud\\source\\repos\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj",
+        "projectUniqueName": "C:\\Users\\santhosh goud\\Desktop\\GIT\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj",
         "projectName": "ReadAppsettingsValues",
-        "projectPath": "C:\\Users\\santhosh goud\\source\\repos\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj",
+        "projectPath": "C:\\Users\\santhosh goud\\Desktop\\GIT\\ReadAppsettingsValues\\ReadAppsettingsValues\\ReadAppsettingsValues.csproj",
         "packagesPath": "C:\\Users\\santhosh goud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santhosh goud\\source\\repos\\ReadAppsettingsValues\\ReadAppsettingsValues\\obj\\",
+        "outputPath": "C:\\Users\\santhosh goud\\Desktop\\GIT\\ReadAppsettingsValues\\ReadAppsettingsValues\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

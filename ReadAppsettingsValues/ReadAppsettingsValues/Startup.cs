@@ -36,42 +36,43 @@ namespace ReadAppsettingsValues
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.Use(next =>
-            {
-                return async ctx =>
-                {
-                    ctx.AddLogItem("Enter middleware 1");
-                    await next(ctx);
-                    ctx.AddLogItem("Exit middleware 1");
-                };
-            });
-
-            app.Use(next =>
-            {
-                return async ctx =>
-                {
-                    ctx.AddLogItem("Enter middleware 2");
-                    await next(ctx);
-                    ctx.AddLogItem("Exit middleware 2");
-                };
-            });
-
-            app.Use(next =>
-            {
-                return async ctx =>
-                {
-                    ctx.AddLogItem("Enter middleware 3");
-                    await next(ctx);
-                    ctx.AddLogItem("Exit middleware 3");
-                };
-            });
-
-            //app.UseMiddleware();
-
-            //app.Run(async (context) =>
+            //hello_world secondcdkljl;kdjfo;sljfl;dsufjo;dsjfldfjl;dsjf;dso
+            //app.Use(next =>
             //{
-            //    await context.Response.WriteAsync("Hello World!");
+            //    return async ctx =>
+            //    {
+            //        ctx.AddLogItem("Enter middleware 1");
+            //        await next(ctx);
+            //        ctx.AddLogItem("Exit middleware 1");
+            //    };
             //});
+
+            //app.Use(next =>
+            //{
+            //    return async ctx =>
+            //    {
+            //        ctx.AddLogItem("Enter middleware 2");
+            //        await next(ctx);
+            //        ctx.AddLogItem("Exit middleware 2");
+            //    };
+            //});
+
+            //app.Use(next =>
+            //{
+            //    return async ctx =>
+            //    {
+            //        ctx.AddLogItem("Enter middleware 3");
+            //        await next(ctx);
+            //        ctx.AddLogItem("Exit middleware 3");
+            //    };
+            //});
+
+            app.UseMiddleware();
+
+            app.Run(async (context) =>
+            {
+                await context.Response.WriteAsync("Hello World!");
+            });
         }
     }
 }
