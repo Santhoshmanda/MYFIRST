@@ -1,0 +1,14 @@
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\bin\Debug\netcoreapp2.1\ReadAppsettingsValues.deps.json
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\bin\Debug\netcoreapp2.1\ReadAppsettingsValues.runtimeconfig.json
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\bin\Debug\netcoreapp2.1\ReadAppsettingsValues.runtimeconfig.dev.json
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\bin\Debug\netcoreapp2.1\ReadAppsettingsValues.dll
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\bin\Debug\netcoreapp2.1\ReadAppsettingsValues.pdb
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.csprojAssemblyReference.cache
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.csproj.CoreCompileInputs.cache
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.RazorAssemblyInfo.cache
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.RazorAssemblyInfo.cs
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.AssemblyInfoInputs.cache
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.AssemblyInfo.cs
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.RazorTargetAssemblyInfo.cache
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.dll
+C:\Users\santhosh goud\source\repos\ReadAppsettingsValues\ReadAppsettingsValues\obj\Debug\netcoreapp2.1\ReadAppsettingsValues.pdb
